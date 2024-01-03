@@ -1,5 +1,5 @@
 # ignore a specific file
-/want this ignored
+# /want this ignored
 
 
 # ignore all .txt files
