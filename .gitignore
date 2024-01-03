@@ -1,3 +1,5 @@
+# ignore a specific file
+/want this ignored*/
 
 
 # ignore all .txt files
